@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0735-asteroid-collision) |
+| [1833-maximum-ice-cream-bars](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1833-maximum-ice-cream-bars) |
 ## Stack
 |  |
 | ------- |
@@ -13,4 +14,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0735-asteroid-collision) |
+## Greedy
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1833-maximum-ice-cream-bars) |
+## Sorting
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1833-maximum-ice-cream-bars) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
