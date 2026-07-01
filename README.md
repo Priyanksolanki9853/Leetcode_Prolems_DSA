@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0239-sliding-window-maximum) |
+| [0455-assign-cookies](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0735-asteroid-collision) |
 | [0846-hand-of-straights](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0846-hand-of-straights) |
@@ -31,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0846-hand-of-straights) |
 | [1833-maximum-ice-cream-bars](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1833-maximum-ice-cream-bars) |
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0846-hand-of-straights) |
 | [1833-maximum-ice-cream-bars](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -163,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
