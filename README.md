@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0057-insert-interval) |
 | [0239-sliding-window-maximum](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0239-sliding-window-maximum) |
+| [0435-non-overlapping-intervals](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0735-asteroid-collision) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0678-valid-parenthesis-string) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0846-hand-of-straights) |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0070-climbing-stairs) |
+| [0435-non-overlapping-intervals](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0678-valid-parenthesis-string) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Memoization
