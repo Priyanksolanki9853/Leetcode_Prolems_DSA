@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0055-jump-game) |
 | [0239-sliding-window-maximum](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0455-assign-cookies) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0621-task-scheduler) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0070-climbing-stairs) |
 | [0678-valid-parenthesis-string](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0678-valid-parenthesis-string) |
