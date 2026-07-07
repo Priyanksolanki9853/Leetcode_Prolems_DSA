@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0057-insert-interval) |
 | [0135-candy](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0135-candy) |
+| [0217-contains-duplicate](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0239-sliding-window-maximum) |
 | [0435-non-overlapping-intervals](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0455-assign-cookies) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0621-task-scheduler) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0217-contains-duplicate) |
 | [0621-task-scheduler](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0846-hand-of-straights) |
 | [0930-binary-subarrays-with-sum](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0930-binary-subarrays-with-sum) |
