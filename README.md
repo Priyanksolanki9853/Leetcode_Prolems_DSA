@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0860-lemonade-change) |
 | [1833-maximum-ice-cream-bars](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0846-hand-of-straights) |
 | [1288-remove-covered-intervals](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Counting Sort
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0070-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
