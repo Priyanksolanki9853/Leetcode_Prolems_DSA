@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0057-insert-interval) |
 | [0135-candy](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0135-candy) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0735-asteroid-collision) |
 ## Greedy
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0054-spiral-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Two Pointers
