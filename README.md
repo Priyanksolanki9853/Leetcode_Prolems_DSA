@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1833-maximum-ice-cream-bars](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0070-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -196,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -252,5 +258,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
