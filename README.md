@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-diagonal-traverse-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1424-diagonal-traverse-ii) |
 | [1833-maximum-ice-cream-bars](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0070-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Combinatorics
