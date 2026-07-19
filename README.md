@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0901-online-stock-span) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Simulation
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0860-lemonade-change) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Sorting
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0042-trapping-rain-water) |
 | [0901-online-stock-span](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0901-online-stock-span) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Data Stream
 |  |
 | ------- |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0678-valid-parenthesis-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
