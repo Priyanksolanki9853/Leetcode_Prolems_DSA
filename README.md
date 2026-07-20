@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1260-shift-2d-grid](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0059-spiral-matrix-ii) |
 | [0735-asteroid-collision](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0735-asteroid-collision) |
+| [1260-shift-2d-grid](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1260-shift-2d-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0059-spiral-matrix-ii) |
+| [1260-shift-2d-grid](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Two Pointers
