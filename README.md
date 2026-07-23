@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0059-spiral-matrix-ii) |
 | [0135-candy](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0135-candy) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0238-product-of-array-except-self) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1004-max-consecutive-ones-iii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0455-assign-cookies) |
 ## Depth-First Search
 |  |
