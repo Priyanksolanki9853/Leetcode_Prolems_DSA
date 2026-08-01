@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0239-sliding-window-maximum) |
 | [0435-non-overlapping-intervals](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0486-predict-the-winner) |
 | [0621-task-scheduler](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0735-asteroid-collision) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0678-valid-parenthesis-string) |
 | [1301-number-of-paths-with-max-score](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -328,8 +331,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0002-add-two-numbers) |
+| [0486-predict-the-winner](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0486-predict-the-winner) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
