@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0621-task-scheduler](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0846-hand-of-straights) |
 | [0930-binary-subarrays-with-sum](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
