@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1004-max-consecutive-ones-iii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0074-search-a-2d-matrix) |
 | [1260-shift-2d-grid](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
