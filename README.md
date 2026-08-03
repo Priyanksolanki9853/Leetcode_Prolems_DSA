@@ -363,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1406-stone-game-iii) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
