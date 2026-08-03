@@ -350,10 +350,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0486-predict-the-winner) |
 ## Bit Manipulation
 |  |
