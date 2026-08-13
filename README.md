@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -426,4 +429,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1510-stone-game-iv) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
