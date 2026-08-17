@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1424-diagonal-traverse-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1424-diagonal-traverse-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1563-stone-game-v) |
 | [1833-maximum-ice-cream-bars](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/2029-stone-game-ix) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
