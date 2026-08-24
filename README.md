@@ -468,5 +468,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1148-article-views-i](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
