@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Heap (Priority Queue)
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
