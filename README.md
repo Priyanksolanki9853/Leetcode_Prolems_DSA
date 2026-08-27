@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
 |  |
@@ -348,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Breadth-First Search
 |  |
 | ------- |
