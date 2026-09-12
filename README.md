@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3731-find-missing-elements) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Memoization
 |  |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Prefix Sum
 |  |
