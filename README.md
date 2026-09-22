@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0486-predict-the-winner) |
+| [0507-perfect-number](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0877-stone-game) |
