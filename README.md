@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0739-daily-temperatures) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
