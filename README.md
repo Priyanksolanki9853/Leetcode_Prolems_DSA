@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0835-image-overlap) |
 | [0846-hand-of-straights](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0846-hand-of-straights) |
+| [0853-car-fleet](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Simulation
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0846-hand-of-straights](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0846-hand-of-straights) |
+| [0853-car-fleet](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0853-car-fleet) |
 | [1288-remove-covered-intervals](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1424-diagonal-traverse-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1424-diagonal-traverse-ii) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Data Stream
