@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0567-permutation-in-string) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
