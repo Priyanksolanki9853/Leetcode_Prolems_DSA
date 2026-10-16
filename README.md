@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0678-valid-parenthesis-string) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Graph Theory
@@ -674,11 +676,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
