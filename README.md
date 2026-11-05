@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1424-diagonal-traverse-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1424-diagonal-traverse-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0567-permutation-in-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
