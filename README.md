@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0059-spiral-matrix-ii) |
 | [0735-asteroid-collision](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0735-asteroid-collision) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Priyanksolanki9853/Leetcode_Prolems_DSA/tree/master/0115-distinct-subsequences) |
